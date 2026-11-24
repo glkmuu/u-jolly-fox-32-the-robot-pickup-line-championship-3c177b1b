@@ -1,0 +1,1 @@
+My proximity sensor keeps flagging you as an obstacle — apparently my heart has no collision avoidance.
